@@ -1,0 +1,165 @@
+<resources>
+    <string name="app_name">Students Discipline</string>
+
+    <string name="main_quote">Students should follow certain disciplines in school,college and where ever they go.</string>
+
+    <string name="button1"> !...Discipline in School...!  </string>
+
+    <string name="button2"> !...Discipline in College...!  </string>
+
+    <string name="button3"> !...Discipline in Home...!  </string>
+
+    <string name="button4"> !...Discipline in Environment...!  </string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string name="scl_disc">
+
+       1) Discipline is the word that implies a great meaning in everyone’s life.\n
+       2) It is a set of standard rules that is set up by scholarly individuals.\n
+       3) It is a way of being honest, hard-working, motivated and encouraged throughout the life.\n
+       4) It is rightly said that, “Life without discipline is just like a ship without radar”.
+
+    </string>
+
+    <string name="focus">
+
+       1) A person with strong goals is more focused and always keeps his work up on time in everyday life.\n
+       2) While, anyone without discipline can’t keep his mind focused on his work or goals due to disturbances.\n
+       3) An undisciplined person is not able to complete his work on time.\n
+       4) In short, discipline helps you stay focus in the task you’re performing.\n
+
+    </string>
+
+    <string name="stress">
+
+       1) It becomes easier to stay in control of studies and personal lives as well.\n
+       2) A well-disciplined person always remain happy by relieving stress one faces tension during exams or daily routine work.\n
+       3) This is inner tension or unknown fear about the result of the work.\n
+       4) Staying disciplined helps to study well ahead of time and not just before exams, so he remains stress free.\n
+       5) Because of discipline in a workplace, the work is planned well and executed in time.\n
+       6) Discipline helps one stay stress-free and also get out of depression.\n
+
+    </string>
+
+    <string name="academy">
+
+        1) Students who are disciplined tend to get much better scores and get more benefit from their classes as well.\n
+        2) In a student life, discipline is very important for better education. \n
+        3) Education becomes incomplete without learning discipline.\n
+        4) Classroom discipline helps students to listen to the teacher well.\n
+        5) There are various other advantages of being disciplined in life, \n
+            i.e. coming to school on time, \n
+            waking up early in the morning, \n
+            have a bath and breakfast on time.\n
+
+    </string>
+
+    <string name="active">
+
+        1) Disciplined people, often stay healthy and active throughout the day.\n
+        2) They know what is good and bad for them, which is a good time for doing a particular task.\n
+        3) They do study, play, eat, sleep and wake up well on time, thus staying active the entire day.\n
+        4) Hence, discipline encourages students to remain healthy, active and dynamic. \n
+        5) It is useful for the development of the body as well as mind.\n
+
+    </string>
+
+    <string name="college_dis">
+
+        1) Ensuring the formulation of a College Code of Behaviour\n
+
+        2) Promoting and regularly updating such a Code\n
+
+        3) Identifying as early as possible students who manifest challenging behaviour and planning an intervention to improve such behaviour\n
+
+        4) Collaborating with school, College and other professionals with the aim of carrying out effective interventions\n
+
+        5) Preventing challenging behaviour through the establishment of healthy inter-personal relationships with students and school personne\n
+
+        6) Establishing liaison with College Principals, school staff and students\n
+
+        7) Informing students of their rights and corresponding responsibilities\n
+
+
+    </string>
+
+    <string name="class_room">
+        1)  Do not raise your voice\n
+        2) Try to remain calm and rational\n
+        3) Do not touch an agitated or angry student\n
+        4) Try to keep the student seated. In many instances, this is impossible.\n
+        5) You can only suggest the student remain seated so that he might explain to you what is wrong.\n
+        6) Be reassuring to the student as well as the rest of the class.\n
+        7)Explain the importance of protecting every student’s right to learn.\n
+        Talk about options for resolving the conflict.\n
+        6) Send another student for help. The student should be told to go to the nearest office to summon assistance from the administration.\n
+    </string>
+
+
+    <string name="home">
+
+                1)  Show and tell. Teach children right from wrong with calm words and actions. Model behaviors you would like to see in your children.\n
+
+                2) Set limits. Have clear and consistent rules your children can follow. Be sure to explain these rules in age appropriate terms they can understand.\n
+
+                3) Give consequences. Calmly and firmly explain the consequences if they do not behave.\n
+
+                4) Hear them out. Listening is important. Let your child finish the story before helping solve the problem. Watch for times when misbehavior has a pattern, like if your child is feeling jealous. Talk with your child about this rather than just giving consequences.\n
+
+                5) Give them your attention. The most powerful tool for effective discipline is attention to reinforce good behaviors and discourage others. Remember, all children want their parents attention.\n
+
+                6) Catch them being good. Children need to know when they do something bad and when they do something good. Notice good behavior and point it out, praising success and good tries. Be specific For example, Wow, you did a good job putting that toy away.\n
+
+                7) Be prepared for trouble. Plan ahead for situations when your child might have trouble behaving. Prepare them for upcoming activities and how you want them to behave.\n
+
+                8) Redirect bad behavior. Sometimes children misbehave because they are bored or do not know any better. Find something else for your child to do.\n
+    </string>
+
+
+    <string name="env">
+
+       1) Every business needs to stay on course in order to succeed, and the only way to stay on that course is to develop a positive and consistent work ethic and to maintain a strong sense of discipline.\n
+       2) As a business leader, you probably understand just how hard it can be to create an environment of discipline.\n
+       3) On the one hand, you want to encourage your workers to be disciplined and to always take care of their tasks with the diligence they deserve.\n
+       4) However, on the other, you don’t want to come across as a draconian and demanding employer who is too strict to even breathe around.\n
+
+        
+    </string>
+    
+    <string name="env_lead">
+
+        1) As the business owner, you are the head of the workplace, and so it is only proper that you lead in whatever you would like your workforce to do.\n
+        2) Many people hesitate to be leaders in their own workplaces because they think the office will somehow organically sort itself out.\n
+        3) However, employees don’t want to be left to figure everything out on their own. \n
+        4) They need some kind of leadership, whether they are a team of professional essay writers or software engineers, and it needs to be strong.\n
+        5) Being a leader does not mean you should tell people what to do all the time or shout at them. \n
+        6) Instead, you should encourage them to work and achieve the full potential that they could possibly achieve.\n
+        7) It’s about giving them guidance when they reach a stumbling block and they are not quite sure what the way forward is.\n
+        8) As a leader, you are meant to resolve disputes among your employees while gently pulling them all in the same direction.\n
+        
+    </string>
+    
+    <string name="env_distractions">
+
+       1) Sometimes, the cause of indiscipline in the workplace is simply a lack of focus.\n
+       2) People are getting distracted and it is hindering them from placing their focus on what matters.\n
+       3) As a leader, you should endeavor to remove anything in the workplace that will prove to be a detrimental distraction to work.\n
+       4) These distractions could be anything, really. It could have to do with technology, and the employees getting hooked on their devices, or it could have to do with the layout of the office.\n
+       5) Take social media, for example. It can be a serious attention sucker, getting people distracted so that they end up doing none of the meaningful work that they are actually meant to do.\n
+
+    </string>
+    
+    <string name="env_pleasant">
+
+        1) Once you’ve removed the distractions from the working environment, the next step is to improve it so it becomes a place where people love to work in every day, rather than hate.\n
+        2) You want your employees looking forward to arriving at work every day, and for them to feel energized when they get to the workplace.\n
+        3) If whenever your employees walk into the office they feel like they would rather be someplace else, you can bet their productivity levels will be abysmally low.\n
+        4) It will be very hard to foster discipline in such an environment. To change that, consider changing the environment in the office in a way that brightens it up.\n
+
+    </string>
+
+
+</resources>
